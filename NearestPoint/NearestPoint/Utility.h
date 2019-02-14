@@ -1,6 +1,7 @@
 #pragma once
 
 #include <iostream>
+#include <time.h>
 
 static class Utility
 {
